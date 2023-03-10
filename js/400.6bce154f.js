@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkonline_attendance_system"]=self["webpackChunkonline_attendance_system"]||[]).push([[400],{89:function(n,t){t.Z=(n,t)=>{const e=n.__vccOpts||n;for(const[c,r]of t)e[c]=r;return e}},400:function(n,t,e){e.r(t),e.d(t,{default:function(){return a}});var c=e(3396);function r(n,t){return(0,c.wg)(),(0,c.iD)("div",null,"在线打卡签到")}var s=e(89);const u={},o=(0,s.Z)(u,[["render",r]]);var a=o}}]);
+//# sourceMappingURL=400.6bce154f.js.map
